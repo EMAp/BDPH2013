@@ -27,14 +27,21 @@ In this Symposium, we aim to bring together researchers from the various fields 
 
 **Dates: 23-25/10/2013**
 
+.. class:: span5
+
 Organizers
 ==========
-
 * Flávio Codeço Coelho - EMAp/FGV
 * Cláudia Torres Codeço - Fiocruz
 * Antonio Miguel Vieira Monteiro - INPE
 * Oswaldo Gonçalves Cruz - Fiocruz
 * Christovam Barcellos - Fiocruz
 
+.. class:: span5
+
 Scientific Comittee
 ===================
+* Asla Medeiros e Sá - EMAp/FGV
+* Renato Rocha Souza - EMAp/FGV
+* Crysttian Arantes Paixão - EMAp/FGV
+* Leonardo Santos - Cemaden 
