@@ -1,6 +1,6 @@
-nikola.. link: 
+.. link: 
 .. description: 
-.. tags: 
+.. tags: form
 .. date: 2013/07/03 08:29:56
 .. title: Registration
 .. slug: registration

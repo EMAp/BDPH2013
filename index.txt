@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: Symposium
 .. date: 2013/07/03 09:16:24
 .. title: 1st Symposium on Big Data and Public Health
 .. slug: index
