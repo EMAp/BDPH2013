@@ -12,7 +12,7 @@
     - Data harvesting from Social media 
     - Heterogeneity of data sources: challenges to integration and cross-referencing 
     - Maintenance and Updating of data.
-* Data analysis -- Keynote: 
+* Data analysis
     - Challenges of analyzing Large Datasets
     - Streaming data analysis
     - Information Visualization and visual analytics: 
