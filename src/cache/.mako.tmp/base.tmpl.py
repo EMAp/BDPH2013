@@ -4,7 +4,7 @@ UNDEFINED = runtime.UNDEFINED
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 8
-_modified_time = 1373280272.795851
+_modified_time = 1373368460.505426
 _enable_loop = True
 _template_filename = u'/usr/local/lib/python2.7/dist-packages/nikola/data/themes/site/templates/base.tmpl'
 _template_uri = u'base.tmpl'
@@ -20,15 +20,15 @@ def _mako_get_namespace(context, name):
         return context.namespaces[(__name__, name)]
 def _mako_generate_namespaces(context):
     # SOURCE LINE 2
-    ns = runtime.TemplateNamespace('__anon_0x37d4610', context._clean_inheritance_tokens(), templateuri=u'base_helper.tmpl', callables=None,  calling_uri=_template_uri)
-    context.namespaces[(__name__, '__anon_0x37d4610')] = ns
+    ns = runtime.TemplateNamespace('__anon_0x24f4450', context._clean_inheritance_tokens(), templateuri=u'base_helper.tmpl', callables=None,  calling_uri=_template_uri)
+    context.namespaces[(__name__, '__anon_0x24f4450')] = ns
 
 def render_body(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         __M_locals = __M_dict_builtin(pageargs=pageargs)
         _import_ns = {}
-        _mako_get_namespace(context, '__anon_0x37d4610')._populate(_import_ns, [u'*'])
+        _mako_get_namespace(context, '__anon_0x24f4450')._populate(_import_ns, [u'*'])
         lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
         extra_head_data = _import_ns.get('extra_head_data', context.get('extra_head_data', UNDEFINED))
         late_load_js = _import_ns.get('late_load_js', context.get('late_load_js', UNDEFINED))
@@ -128,7 +128,7 @@ def render_content(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         _import_ns = {}
-        _mako_get_namespace(context, '__anon_0x37d4610')._populate(_import_ns, [u'*'])
+        _mako_get_namespace(context, '__anon_0x24f4450')._populate(_import_ns, [u'*'])
         def content():
             return render_content(context)
         __M_writer = context.writer()
@@ -141,7 +141,7 @@ def render_extra_head(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         _import_ns = {}
-        _mako_get_namespace(context, '__anon_0x37d4610')._populate(_import_ns, [u'*'])
+        _mako_get_namespace(context, '__anon_0x24f4450')._populate(_import_ns, [u'*'])
         def extra_head():
             return render_extra_head(context)
         __M_writer = context.writer()
@@ -156,7 +156,7 @@ def render_sourcelink(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         _import_ns = {}
-        _mako_get_namespace(context, '__anon_0x37d4610')._populate(_import_ns, [u'*'])
+        _mako_get_namespace(context, '__anon_0x24f4450')._populate(_import_ns, [u'*'])
         def sourcelink():
             return render_sourcelink(context)
         __M_writer = context.writer()
@@ -171,7 +171,7 @@ def render_belowtitle(context,**pageargs):
     __M_caller = context.caller_stack._push_frame()
     try:
         _import_ns = {}
-        _mako_get_namespace(context, '__anon_0x37d4610')._populate(_import_ns, [u'*'])
+        _mako_get_namespace(context, '__anon_0x24f4450')._populate(_import_ns, [u'*'])
         def belowtitle():
             return render_belowtitle(context)
         html_translations = _import_ns.get('html_translations', context.get('html_translations', UNDEFINED))
