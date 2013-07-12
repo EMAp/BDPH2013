@@ -50,3 +50,4 @@ Scientific Comittee
 * Renato Rocha Souza - EMAp/FGV
 * Crysttian Arantes Paixão - EMAp/FGV
 * Leonardo Santos - Cemaden 
+* Gilberto Câmara - INPE
