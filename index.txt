@@ -51,3 +51,5 @@ Scientific Comittee
 * Crysttian Arantes Paixão - EMAp/FGV
 * Leonardo Santos - Cemaden 
 * Gilberto Câmara - INPE
+* Trevor Bailey - University of Exeter
+* Edzer Pebesma - Univerty of Münster
