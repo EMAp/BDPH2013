@@ -4,7 +4,11 @@ UNDEFINED = runtime.UNDEFINED
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 8
+<<<<<<< HEAD
 _modified_time = 1376414461.674715
+=======
+_modified_time = 1376415016.077341
+>>>>>>> master
 _enable_loop = True
 _template_filename = u'/usr/local/lib/python2.7/dist-packages/nikola/data/themes/default/templates/post_helper.tmpl'
 _template_uri = u'post_helper.tmpl'
