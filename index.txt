@@ -27,7 +27,7 @@ In this Symposium, we aim to bring together researchers from the various fields 
 
 **Location: Fundação Getúlio Vargas, Rio de Janeiro** -
 **Dates: 24-25/10/2013** -
-Register Now!
+`Register Now! <registration.html>`_
 
 .. class:: span5
 
