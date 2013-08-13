@@ -6,6 +6,24 @@
 .. slug: program
 
 
+..class span6
+
+Confirmed Speakers
+==================
+
+* Cristina Guimarães
+* Ethel Maciel
+* Gabriela Gomes
+* Mauricio Barreto
+* Mauro Teixeira
+* Renato Assunção -- UFMG
+* Robert Muggah
+* Ronaldo Lemos
+* Sander van Noort
+* Trevor Bailey
+
+..class span6
+
 * Data sources and their availability. Current status and challenges.
     - Compliance with the Information Access Law 
     - Machine accessibility to public datasets 

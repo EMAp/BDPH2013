@@ -52,4 +52,4 @@ Scientific Comittee
 * Leonardo Santos - Cemaden 
 * Gilberto Câmara - INPE
 * Trevor Bailey - University of Exeter
-* Edzer Pebesma - Univerty of Münster
+* Edzer Pebesma - University of Münster
