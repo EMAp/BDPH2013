@@ -5,53 +5,28 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://BDPH2013.github.io</loc>
-  <lastmod>2013-07-03</lastmod>
+  <loc>http://BDPH2013.github.io/</loc>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/archive.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://BDPH2013.github.io/assets/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/assets/css/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/assets/css/images/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/assets/css/images/ie6/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/assets/img/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/assets/js/</loc>
-  <lastmod>2013-07-03</lastmod>
+  <loc>http://BDPH2013.github.io/call.html</loc>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/categories/</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/categories/index.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,7 +36,12 @@
  </url>
  <url>
   <loc>http://BDPH2013.github.io/galleries/index.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://BDPH2013.github.io/index.html</loc>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -71,32 +51,17 @@
  </url>
  <url>
   <loc>http://BDPH2013.github.io/listings/index.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://BDPH2013.github.io/src/</loc>
-  <lastmod>2013-07-03</lastmod>
+  <loc>http://BDPH2013.github.io/program.html</loc>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://BDPH2013.github.io/src/cache/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/cache/.mako.tmp/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/cache/galleries/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/cache/posts/</loc>
-  <lastmod>2013-07-03</lastmod>
+  <loc>http://BDPH2013.github.io/registration.html</loc>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -106,47 +71,32 @@
  </url>
  <url>
   <loc>http://BDPH2013.github.io/src/cache/stories/</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/src/cache/stories/call.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/src/cache/stories/index.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/src/cache/stories/program.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/src/cache/stories/registration.html</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://BDPH2013.github.io/src/cache/stories/welcome.html</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/files/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/galleries/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/listings/</loc>
-  <lastmod>2013-07-03</lastmod>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -155,42 +105,7 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://BDPH2013.github.io/src/output/2013/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://BDPH2013.github.io/src/output/archive.html</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/output/assets/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/output/assets/css/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/output/assets/css/images/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/output/assets/css/images/ie6/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/output/assets/img/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/output/assets/js/</loc>
   <lastmod>2013-07-03</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -235,11 +150,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://BDPH2013.github.io/src/output/posts/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://BDPH2013.github.io/src/output/program.html</loc>
   <lastmod>2013-07-03</lastmod>
   <priority>0.5000</priority>
@@ -280,13 +190,8 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://BDPH2013.github.io/src/posts/</loc>
-  <lastmod>2013-07-03</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://BDPH2013.github.io/src/stories/</loc>
-  <lastmod>2013-07-03</lastmod>
+  <loc>http://BDPH2013.github.io/welcome.html</loc>
+  <lastmod>2013-08-13</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

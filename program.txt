@@ -5,6 +5,35 @@
 .. title: Preliminary Program
 .. slug: program
 
+.. class:: span12
+
+This is a preliminary program. Please return to this page regularly to get updated information.
+
+.. class:: span5
+
+Confirmed Speakers
+==================
+
+* Antonio Miguel Vieira Monteiro - INPE - Brazil
+* Andrea Iabrudi Tavares - Federal University of Ouro Preto
+* Carl Kopescharr - De Grote Griepmeting - Holland
+* Claudia Medina - UFRJ
+* Cristina Guimarães - ICICT/Fiocruz
+* Ethel Maciel - Federal University of Espirito Santo
+* Gabriela Gomes - Instituto Gulbenkian de Ciência
+* Mauricio Barreto - Federal University if Bahia
+* Mauro Teixeira - Federal University of Minas Gerais
+* Oswaldo Sergio Farhat de Carvalho - Federal University of Minas Gerais
+* Renato Assunção - Federal University of Minas Gerais
+* Robert Muggah - Instituto Igarapé
+* Ronaldo Lemos - FGV
+* Sander van Noort - Instituto Gulbenkian de Ciência
+* Trevor Bailey - University of Exeter
+
+.. class:: span5
+
+Thematic Areas
+==============
 
 * Data sources and their availability. Current status and challenges.
     - Compliance with the Information Access Law 

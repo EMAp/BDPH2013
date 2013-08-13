@@ -6,9 +6,9 @@
 .. slug: index
 
 
-.. class:: hero-unit span12
+.. class:: span12
 
-Welcome to **BDPH 2013** web site!
+.. image:: banner.png
 
 
 .. class:: span12
@@ -23,10 +23,10 @@ The large volumes of data and the computational, mathematical and statistical to
 
 In this Symposium, we aim to bring together researchers from the various fields above to present their most recent work and discuss the challenges of Big data and Public Health in the 21st century.
 
-**Location: Fundação Getúlio Vargas, Rio de Janeiro**
+.. class:: span12
 
-**Dates: 24-25/10/2013**
-
+**Location: Fundação Getúlio Vargas, Rio de Janeiro** -
+**Dates: 24-25/10/2013** -
 Register Now!
 
 .. class:: span5
