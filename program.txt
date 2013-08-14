@@ -11,9 +11,10 @@ This is a preliminary program. Please return to this page regularly to get updat
 
 .. class:: hero-unit span12
 
-.. admonition:: All talks in the symposium will be in English.
+.. admonition:: All talks will be in English / Todas as palestras serão em Inglês.
 
     Because of the international nature of this gathering, English will be the official language.
+    Devido à natureza internacional deste encontro, todas as palestras serão em Inglês.
 
 .. class:: span5
 

@@ -44,6 +44,13 @@ Organizers
 * Oswaldo Gonçalves Cruz - Fiocruz
 * Christovam Barcellos - Fiocruz
 
+.. class:: span12
+
+.. admonition:: All talks will be in English / Todas as palestras serão em Inglês.
+
+    Because of the international nature of this gathering, English will be the official language. /
+    Devido à natureza internacional deste encontro, todas as palestras serão em Inglês.
+
 .. class:: span5
 
 Scientific Comittee
