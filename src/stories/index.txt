@@ -10,6 +10,12 @@
 
 .. image:: banner.png
 
+.. class:: span12
+
+.. admonition:: Talk and poster submission deadline!
+    
+    The deadline for abstract submission is september 30th. `Register Now <registration.html>`_, and submit your work!
+
 
 .. class:: span12
 
@@ -25,7 +31,7 @@ In this Symposium, we aim to bring together researchers from the various fields 
 
 .. class:: span12
 
-**Location: Fundação Getúlio Vargas, Rio de Janeiro** -
+**Location: Fundação Getulio Vargas, Rio de Janeiro** -
 **Dates: 24-25/10/2013** -
 `Register Now! <registration.html>`_
 

@@ -9,6 +9,12 @@
 
 This is a preliminary program. Please return to this page regularly to get updated information.
 
+.. class:: hero-unit span12
+
+.. admonition:: All talks in the symposium will be in English.
+
+    Because of the international nature of this gathering, English will be the official language.
+
 .. class:: span5
 
 Confirmed Speakers
