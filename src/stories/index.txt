@@ -12,9 +12,9 @@
 
 .. class:: span12
 
-.. admonition:: Talk and poster submission deadline!
+.. admonition:: Talk and poster submission deadline extended!
     
-    The deadline for abstract submission is september 30th. `Register Now <registration.html>`_, and submit your work!
+    The deadline for abstract submission **has been extended to October 7th**!!. `Register Now <registration.html>`_, and submit your work!
 
 
 .. class:: span12
