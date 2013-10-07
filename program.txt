@@ -2,7 +2,7 @@
 .. description: This program will be updated frequently.
 .. tags: 
 .. date: 2013/07/03 08:29:47
-.. title: Preliminary Program
+.. title: Symposium Program
 .. slug: program
 
 .. class:: span12
