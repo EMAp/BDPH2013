@@ -13,12 +13,12 @@ BLOG_AUTHOR = "Flávio Codeço Coelho "
 BLOG_TITLE = "Big Data and Public Health 2013"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://BDPH2013.github.io"
+SITE_URL = "http://emap.fgv.br/BDPH2013/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://nikola.ralsina.com.ar"
 BLOG_EMAIL = "fccoelho@fgv.br"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."
+BLOG_DESCRIPTION = "Big Data and Public Health Symposium"
 
 # Nikola is multilingual!
 #
@@ -53,7 +53,7 @@ TRANSLATIONS = {
 
 # Links for the sidebar / navigation bar.
 # You should provide a key-value pair for each used language.
-SIDEBAR_LINKS = {
+NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/program.html', 'Program'),
         ('/registration.html', 'Registration'),
@@ -88,9 +88,8 @@ SIDEBAR_LINKS = {
 # rss feeds.
 #
 
-post_pages = (
-    #("posts/*.txt", "posts", "post.tmpl", True),
-    ("stories/*.txt", "", "story.tmpl", False),
+PAGES = (
+    ("stories/*.txt", "", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -106,7 +105,7 @@ post_pages = (
 # 'rest' is reStructuredText
 # 'markdown' is MarkDown
 # 'html' assumes the file is html and just copies it
-post_compilers = {
+COMPILERS = {
     "rest": ('.txt', '.rst'),
     "markdown": ('.md', '.mdown', '.markdown'),
     "textile": ('.textile',),
@@ -141,7 +140,7 @@ post_compilers = {
 # TAG_PAGES_ARE_INDEXES = True
 
 # Final location is output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "blog"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -272,7 +271,7 @@ OUTPUT_FOLDER = '..'
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = ''' Organization: <a href="http://emap.fgv.br"><img width="80" src="http://emap.fgv.br/NLP-2011/images/emap.jpg"></a> <a href="http://www.fiocruz.br"><img width="130" src="http://www.epsjv.fiocruz.br/seminario/sites/default/files/images/logo%20fiocruz.jpg"></a> <a href="http://www.inpe.br"><img width="130" src="inpe.jpg"></a><br>
+CONTENT_FOOTER = ''' Organization: <a href="http://emap.fgv.br"><img width="80" src="http://emap.fgv.br/NLP-2011/images/emap.jpg"></a> <a href="http://www.fiocruz.br"><img width="130" src="http://www.epsjv.fiocruz.br/seminario/sites/default/files/images/logo%20fiocruz.jpg"></a> <a href="http://www.inpe.br"><img width="130" src="/inpe.jpg"></a><br>
 Contents &copy; {date} <a href="mailto:{email}">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a>'''
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,

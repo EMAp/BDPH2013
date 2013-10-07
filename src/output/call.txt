@@ -1,8 +1,0 @@
-.. link: 
-.. description: 
-.. tags: 
-.. date: 2013/07/03 10:16:39
-.. title: Call
-.. slug: call
-
-Write your post here.
