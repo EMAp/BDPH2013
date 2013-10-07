@@ -1,0 +1,22 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/03 09:16:24
+.. title: Mathematical Modeling and Data Needs
+.. slug: gabriela_gomes
+
+**Gabriela Gomes**
+
+*Instituto Gulbenkian de Ciência* 
+
+Populations are composed of individuals that differ in their propensity to acquire disease and in their potential to transmit to others, in the case of infectious diseases. Overall variation results from a mix of genetic and environmental factors, including social and physical aspects. The logic of epidemiologic research, however, is to classify people by similarity of given characteristics (such as having some disease or not, having some vaccine or not, being male or female, etc) and conceiving a model for disease distributions in a population that is composed of groups of individuals (1-2). Due to demographic processes, however, differential selection is likely to occur within groups, resulting in patterns of disease for the population as a whole that differ from expectations (3-4).  For this reason, the group structure must be factored throughout the entire research process, particularly in the interpretation of results.
+A common problem in mathematical modeling arises when epidemiological data collected in a community can be explained by many models, each grouping the population in different ways, and it appears impossible to determine which model is best. To tackle this problem of model indeterminacy, we and others (5-6) propose using data collected uniformly across multiple populations. Some of the information systems presented in this symposium might be ideal for this aim.  
+
+*References*
+
+    1.        Rothman KJ (2012) Epidemiology: An Introduction, Second Edition. Oxford University Press.
+    2.        Anderson RM, May RM (1992) Infectious Diseases of Humans: Dynamics and Control. Oxford University Press.
+    3.        Vaupel JW, Yashin AI (1985) Heterogeneity's Ruses: Some surprising effects of selection on population dynamics. The American Statistician 39, 176-185.
+    4.        Ball F (1985) Deterministic and stochastic epidemic models with several kinds of susceptibles. Advances in Applied Probability 17: 1-22.
+    5.        Smith DL, Dushoff J, Snow RW, Hay SI (2005) The entomological inoculation rate and Plasmodium falciparum infection in African children. Nature 438: 492-495.
+    6.        Gomes MGM, Aguas R, Lopes JS, Nunes MC, Rebelo C, Rodrigues P, Struchiner CJ (2012) How host heterogeneity governs tuberculosis reinfection. Proceedings of the Royal Society B 279: 2473-2478.

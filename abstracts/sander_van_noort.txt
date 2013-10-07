@@ -1,0 +1,74 @@
+ .. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/03 09:16:24
+.. title: Influenzanet: self-reporting of influenza-like illness in cohorts of internet volunteers, 2003-2013
+.. slug: sander_van_noort
+
+**Sander van Noort**
+
+*Instituto Gulbenkian de Ciência* 
+
+Introduction.
+An important source of epidemiological data on infectious diseases is the
+number of infected persons over time. The incidence is usually collected
+based on clinical diagnosis of sentinel medical doctors, but the wide
+availability of Internet has given rise to new innovative methods.
+Influenzanet uses cohorts of self-reporting volunteers via the Internet
+and has been active in The Netherlands and Belgium (2003), Portugal
+(2005), Italy (2007), United Kingdom (2009), Sweden (2011), France (2012)
+and Spain (2012).
+
+Method. 
+Media attention is generated to encourage people (patients and
+non-patients) to enroll at one of the national websites by completing
+an intake questionnaire containing a set of demographic, medical,
+socio-economic and lifestyle questions. Subsequently, participants receive
+an e-mail on a weekly basis with a link to a short symptom questionnaire
+on eventual symptoms since their last visit. When symptoms are reported,
+some additional questions are presented about GP consultation and
+changes in activities. The incidence for influenza-like illness (ILI)
+is determined based on the percentage of reporting participants who fit
+a syndromic case definition.
+
+Results.
+Based on the reports of tens of thousands of volunteers, the ILI incidence
+as reported by Influenzanet follows the same trends as the ILI incidence
+as reported by the sentinel network of medical doctors. In countries
+with many participants such as the Netherlands, Influenzanet has been
+able to detect the onset of an ILI epidemic on average two weeks earlier
+than the medical doctors.
+
+Influenzanet is not only an independent source of ILI incidence, it can
+also expose biases in the incidence reported by the medical doctors. The
+rate at which participants with ILI visit their GP varies by country and
+by personal characteristics such as age, which causes relative over- and
+underestimation in the ILI incidences as reported by the medical doctors.
+
+Based on the intake questionnaire, Influenzanet can also determine risk
+factors for ILI. The estimated risk factors are largely in correspondence
+with those found in previous studies, such as an increase in children,
+participants with chronic diseases and participants with children in
+their household. Influenzanet can also estimate risk factors which are
+normally not measured, such as an increased risk in participants with
+pets and the absence of a significant risk change in participants who
+travel by public transport. Based on the vaccination status of every
+participant, Influenzanet can also provide data on the vaccine efficiency
+for ILI. Since not all ILI is due to influenza, the determined vaccine
+efficiencies for ILI is lower than usually estimated for influenza.
+
+Since Influenzanet is independent of a GP visiting rate and can apply
+the same ILI case definition in every country, the ILI incidences can
+be compared directly between countries. This allows the fitting of
+transmission models for influenza in multiple countries simultaneously
+and has led to new hypotheses that the burden of an ILI epidemic not only
+depends on the susceptibility of the population, but also increases when
+the epidemic unfolds during colder and dryer months.
+
+Conclusion.
+Influenzanet provides a valuable new source for the ILI activity in the
+population. The integration of multiple data sources, self-reporting,
+medical doctors, weather data, online searches and social media, in
+combination with transmission models for influenza, can results in a
+much more detailed assessment on the spread of influenza through the
+population.
