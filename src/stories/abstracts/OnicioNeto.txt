@@ -1,0 +1,21 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/03 09:16:24
+.. title: SchistoTRACK
+.. slug: onicio_neto
+
+**Onício Batista Leal Neto**
+
+*Centro de Pesquisa Ageu Magalhães*
+
+
+With the expansion of technologies for health, has empowering several areas for improvement of their workflow ensuring the quality of information generated, for decision making. Despite the increasing use of medical applications and systems geared to the individual, there are few national experiences in the field of epidemiology. Although the epidemiological transition is Brazilian, some endemic diseases remain a challenge in the management of public health. Schistosomiasis is one of those diseases that deserve special attention for its morbidity and need tools that improve detection and monitoring. The GIS combined with mobile technologies enable the collection and consolidation of data is done safely and accurately.
+
+The objective of this paper is to describe the SchistoTRACK, a tool developed for epidemiological surveys in schistosomiasis transmission of real-time information.
+
+The system developed in Android platform consists of two modules: Webserver and mobile App. The server has structure in php and uses the MySQL database. The app, developed in Java, uses the SQLite database and performs the transmission of real-time data via http. The framework is based on the questionnaire forms used traditionally by health workers, taking into account the important data for schistosomiasis, as information of the household, individual and breeding sites of vector snail. The information will be available on a website accessible to the public and to researchers in the lab.
+
+The SchistoTRACK has been tested in field situations, showing remarkable potential in speed and security of information, eliminating the most of the handling process and data transcription and thus avoiding errors. The participatory epidemiology is considered a pillar in the work, providing the public knowledge of locations that have breeding. In the second phase of the project, the implementation of Agent Based Models will be used for historical data of local technicians in the field to identify risk areas for the presence of new breeding.
+
+From the foregoing, it can be concluded that the adoption of new strategies for epidemiological studies promote an improvement of the work process and information analysis. This work refers to the study of schistosomiasis, but the developed solution can be adopted for any other endemics, given the flexibility of changing specific information. Thus we intend to continue the development and strengthening of the system for it to be tangible to public health services.

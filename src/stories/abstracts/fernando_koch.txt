@@ -1,0 +1,19 @@
+ .. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/03 09:16:24
+.. title: New Models of Personal Travel Health Advise using Health Analytics
+.. slug: fernando_koch
+
+**Fernando Koch**
+
+*IBM Research - University of Melbourne*
+
+The number of people traveling internationally has grown substantially in the past decade. The infectious disease risks that travelers face are dynamic—some travel destinations have become safer, while in other areas, new diseases have emerged and other diseases have reemerged. The risk of becoming ill or injured during international travel depends on many factors, such as the region of the world visited, a traveler’s age and health status, the length of the trip, and the diversity of planned activities. 
+
+We are researching and developing a solution that combines Mobile Services and Health Analytics specially tuned for Travel Health and applying concepts and tools from Big Data technology. The aim is to create new links to obtain travel health advice in response to illness during travel, opportunities to improve their profile by self reported compliance to healthy travel behaviour and provide local information on disease activity and the traveller’s position in this local/global context. 
+
+Health Analytic models provide the intelligence in the system by processing process large amount of data being captured by travel Health reports and public agents, and correlating factors like local conditions, end-user profile, reported symptoms, and identified illness. The goal is to outline probabilistic models that relate contextual and profile factors to illness and vice-versa. The Mobile Services provide in-field feedback that enhances the travellers' awareness of their travel health status by creating a unique travel risk profile. In addition, we are looing into methods to provide incentives and guidance to the traveller to update their travel risk profile.
+
+The solution provides travellers and doctors who care for travellers with up-to-date health information that can be used to improve their health outcomes.  it will enable individual and health administrations to understand and predict the regional Travel Health environment and plan for preventive actions, leading to cost savings for travellers and for travel and medical insurers.
+

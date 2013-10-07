@@ -1,0 +1,35 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/03 09:16:24
+.. title: Anomaly detection in the Brazilian public health system
+.. slug: renato_assuncao
+
+**Renato Assunção**
+
+*DCC - UFMG*
+
+Anomaly detection is a common problem common in many applications 
+areas such as fraud detection in financial transactions as 
+the patterns on credit card purchases by customers. Other 
+applications include the detection of anomalous behaviors of 
+mobile users, and anomalies in user data in health plans. 
+Data mining methods have been developed to deal with the 
+aspects common to all theseapplications, as well as the 
+specific aspects of each. Among the common axes that run through 
+all the techniques, the main ones are: visualization as a tool
+for exploring hypotheses, multivariate analysis, and robustness 
+as the way to ensure that the presence of abnormalities do not mask 
+the overall statistics and prevent their detection. 
+
+In this presentation, we present the ongoing experience 
+of a group from the Departamento de Ciencia da Computacao da UFMG 
+to develop an anomaly detection system, called INFOSAS, to the 
+Brazilian Health Ministry. In paryicular, we are interested 
+in detecting frauds. We discuss some of the mahor fraud schemes 
+and the techniques used to address them. Some of the generic 
+conclusions we have reached at this point is the need to use 
+simple and understandable models, visual tools, and a flexible 
+environment that gives data management its pivoltal value. 
+We also emphasize the need to build interactively this system 
+with human intervention and heavy help from public health experts.
