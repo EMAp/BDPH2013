@@ -35,6 +35,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://emap.fgv.br/BDPH2013/abstracts/gabriela_gomes.html</loc>
+  <lastmod>2013-10-07</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/gustavo_diniz.html</loc>
   <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
@@ -161,6 +166,11 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/fernando_koch.html</loc>
+  <lastmod>2013-10-07</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/gabriela_gomes.html</loc>
   <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
