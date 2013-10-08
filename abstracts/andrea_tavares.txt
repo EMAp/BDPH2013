@@ -7,7 +7,7 @@
 
 **Andrea Iabrudi Tavares**
 
-*DCC - UFMG*
+*DECOM - UFMG*
 
 Anomaly detection is a common problem common in many applications 
 areas such as fraud detection in financial transactions as 
