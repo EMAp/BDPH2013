@@ -12,9 +12,11 @@
 
 .. class:: span12
 
-.. admonition:: Talk and poster submission deadline extended!
+.. admonition:: Talk and poster submission is over.
     
-    The deadline for abstract submission **has been extended to October 7th**!!. `Register Now <registration.html>`_, and submit your work!
+    We will review all the submissions and send personal emails regarding the acceptance of the talks and posters. We expected to complete this evaluation before the 13th of october. Please check the `Program <program.html>`_ regularly for updates in the schedule of talks as well as a list of approved posters.
+    
+    Thank you for submitting your work!
 
 
 .. class:: span12
