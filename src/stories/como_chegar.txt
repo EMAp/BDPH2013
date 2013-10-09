@@ -7,7 +7,7 @@
 
 .. class:: hero-unit span12
 
-O evento se realizará no Edifício sede da FGV, situado na Praia de Botafogo, 190 - 12° andar.
+The event will take place in the FGV building, located at Praia de Botafogo, 190 - 12th floor.
 
 .. raw:: html
 
