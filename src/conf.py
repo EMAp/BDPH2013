@@ -57,7 +57,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/program.html', 'Program'),
         ('/registration.html', 'Registration'),
-        #('/call.html', 'Call for posters'),
+        ('/como_chegar.html', 'Location'),
     ),
 }
 
