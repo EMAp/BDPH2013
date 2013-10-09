@@ -11,57 +11,67 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/andrea_tavares.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/carl_koppeschaar.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/christopher_stephens.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/claudia_coeli.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://emap.fgv.br/BDPH2013/abstracts/fabricio_silva.html</loc>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/fernando_koch.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://emap.fgv.br/BDPH2013/abstracts/gabriel_laporta.html</loc>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/gabriela_gomes.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/gustavo_diniz.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/mark_smolinski.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/onicio_neto.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/renato_assuncao.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/sander_van_noort.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -81,7 +91,7 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/call.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -106,7 +116,7 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/index.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,17 +131,17 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/posters.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/program.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/registration.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -170,8 +180,18 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/fabricio_silva.html</loc>
+  <lastmod>2013-10-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/fernando_koch.html</loc>
   <lastmod>2013-10-07</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/gabriel_laporta.html</loc>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -216,7 +236,7 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/program.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -231,7 +251,7 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/welcome.html</loc>
-  <lastmod>2013-10-08</lastmod>
+  <lastmod>2013-10-09</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
