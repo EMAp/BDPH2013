@@ -60,6 +60,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://emap.fgv.br/BDPH2013/abstracts/miriam_ventura.html</loc>
+  <lastmod>2013-10-11</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/onicio_neto.html</loc>
   <lastmod>2013-10-11</lastmod>
   <priority>0.5000</priority>
@@ -71,6 +76,11 @@
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/sander_van_noort.html</loc>
+  <lastmod>2013-10-11</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://emap.fgv.br/BDPH2013/abstracts/wim_degrave.html</loc>
   <lastmod>2013-10-11</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -215,12 +225,22 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/miriam_ventura.html</loc>
+  <lastmod>2013-10-11</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/renato_assuncao.html</loc>
   <lastmod>2013-10-11</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/sander_van_noort.html</loc>
+  <lastmod>2013-10-11</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/wim_degrave.html</loc>
   <lastmod>2013-10-11</lastmod>
   <priority>0.5000</priority>
  </url>
