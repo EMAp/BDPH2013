@@ -7,7 +7,9 @@
 
 .. class:: hero-unit span12
 
-The event will take place in the FGV building, located at Praia de Botafogo, 190 - 12th floor.
+.. admonition:: The event will take place in the FGV (Fundação Getulio Vargas) building, located at Praia de Botafogo, 190 - 12th floor.
+
+    The closest subway station is *Flamengo* station. The closest hotel to the event' venue is the `Hotel Argentina <http://www.tripadvisor.com/Hotel_Review-g303506-d307946-Reviews-Argentina_Hotel-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html>`_
 
 .. raw:: html
 
