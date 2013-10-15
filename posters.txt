@@ -24,10 +24,15 @@ Objective: to stimulate the use of secondary data in Health Economics analyses, 
 *Ulises Urzua (1 \*  §), James M Cherry (2 §), Ester Rozenblum (3), Sandra Ampuero (4), Luis Valenzuela (1), John I Powell (5) and David J Munroe (6)*
 
 1. Laboratorio de Genómica Aplicada, ICBM-Facultad de Medicina, Universidad de Chile
+
 2. Office of Scientific Operations, NCI-Frederick National Laboratory for Cancer Research, Frederick, MD
+
 3. Cancer Genetics Branch, NCI, Bethesda, MD 
+
 4. Programa de Virología, ICBM-Facultad de Medicina, Universidad de Chile
+
 5. Center for Information Technology, NIH, Bethesda, MD
+
 6. ATP, SAIC-Frederick, Frederick National Laboratory for Cancer Research, Frederick, MD
 
 \* Corresponding author; § contributed equally
@@ -42,11 +47,26 @@ Supported by NCI Contract No HSN261200800001E and Fondecyt 1130292.
 
 -------------
 
-**TITULO**
+**Information management in public health: knowledge discovery in database and technologies**
 
-*Carlos Roberto Valêncio, UNESP/SJRPreto*
+*Carlos Roberto Valêncio[1], Paula Rahal[1], Pedro Luiz Pizzigatti Corrêa[2], Moacir Alves Borges[3], Gracio Tomaz Saturno[4], Ana Paula Tencarte[5], Marilda C. A. A. Rodrigues[6]*
 
-Um conjunto de dados vem sendo armazenados que atingem uma população de 1,5 milhões de habitantes e se referem aos segmentos da saúde pública: hepatite, epilepsia, doentes mentais, dependentes químicos, tecidos tumorais e acidentes do trabalho. Sobre esta arquitetura de dados vem sendo elaborados uma coleção de recursos que tratam os temas: data clean, data mining, data warehouse, visual data mining, spatial data mining, data cloud e ferramentais baseados em recurso georeferenciados. Este trabalho tem o propósito de apresentar a nossa experiência e resultados com foco no armazenamento e recuperação de dados e conhecimentos.
+1. Instituto de Biociências, Letras e Ciências Exatas – Ibilce / Universidade Estadual Paulista “Júlio de Mesquita Filho” – Unesp, 
+
+2. Escola Politécnica  / Universidade de São Paulo – Usp, 
+
+3. Faculdade de Medicina de São José do Rio Preto – Famerp, 
+
+4. Hospital Dr. Adolfo Bezerra de Menezes de São José do Rio Preto, 
+
+5. Prefeitura Municipal de Ilha Solteira, 
+
+6. Prefeitura Municipal de São José do Rio Preto
+Contact: valencio@ibilce.unesp.br
+
+A dataset which involves about 1.5 million of inhabitants in Brazil has been storaged and it is related to the following public health issues: hepatitis, epilepsy, mental illness, drug addiction, tumour tissues and work accidents. It is organized under a data archtecture supported by technologies in order to promote data integration, data warehousing, data cleaning, data mining, visual data mining, spatial data mining, data cloud and geographic data managment. In this work, the goal is the presentation of the experience in information management, considering the technologies to support the steps which compose the Knowledge Discovery in Database (KDD) process.
+
+Supported by Ministry of health and FAPESP
 
 ------------------
 
