@@ -1,0 +1,13 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/03 09:16:24
+.. title: IBGE research and data collection on health related issues. 
+.. slug: marco_andreazzi
+
+**Marco Andreazzi**
+
+*Instituto Brasileiro de Geografia e Estatística - IBGE*
+
+
+We are going to show most of IBGE researches providing data to be used in analyses on health concerning population, services and environment. We also want to expose the different ways we have to provide these data. 
