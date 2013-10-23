@@ -221,9 +221,13 @@ In this study the most important variant is on chromosome 2, rs6714508 (OR: 2.40
 
 **Management of traffic accidents through data extracted from social media: a case study**
 
-*Sibele Fausto*
+*Sibele Fausto [1], Adílson Luiz Pinto [2], Manuela Soares da Fonseca [2], Sérgio Salustiano da Silva [3]*
 
-*Escola de Counicação e Artes - Universidade de São Paulo*
+*[1] Escola de Comunicações e Artes, Universidade de São Paulo, São Paulo, Brazil*
+
+*[2] Universidade Federal de Santa Catarina, Santa Catarina, Brazil*
+
+*[3] Independent researcher, Rio de Janeiro, Brazil*
 
 Technologies and web-based tools open new possibilities to improve and facilitate the process of research in Public Health, contributing to the diagnosis, understanding and solving various current issues related to health in society, as traffic accidents, a serious public health problem perceived in big urban areas. The high number of accidents in cities as São Paulo requires extensive studies for their correct diagnosis and coping. In this sense, social media tools such as Twitter show great potential as data sources. The Fire Brigade of the São Paulo State adopted a new way to record and to report incidents attended, including traffic accidents: via the social media tool Twitter, disseminating all occurrences met with updates within 24 hours, and on March 10, 2013 had more than 36,000 tweets. This study sought to verify the validity of data extract from traffic accidents through the events registered by @BombeirosPMESP profile, as well as the use of new online tools for processing and analyzing data.
 
