@@ -70,6 +70,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://emap.fgv.br/BDPH2013/abstracts/mauricio_barreto.html</loc>
+  <lastmod>2013-10-23</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://emap.fgv.br/BDPH2013/abstracts/miriam_ventura.html</loc>
   <lastmod>2013-10-23</lastmod>
   <priority>0.5000</priority>
@@ -247,6 +252,11 @@
  <url>
   <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/mark_smolinski.html</loc>
   <lastmod>2013-10-11</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://emap.fgv.br/BDPH2013/src/cache/stories/abstracts/mauricio_barreto.html</loc>
+  <lastmod>2013-10-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
