@@ -2,28 +2,17 @@
 .. description: 
 .. tags: 
 .. date: 2013/07/03 09:16:24
-.. title: Effect of a conditional cash transfer programme on childhood mortality due to poverty-related causes and on leprosy and tuberculosis incidence: a nationwide analysis of Brazilian municipalities 
+.. title: Big data: how can it help to expand epidemiological investigation? 
 .. slug: mauricio_barreto
 
 **Mauricio Barreto**
 
+*Mauricio L. Barreto*
+
+*Instituto de Saúde Coletiva*
+
+*Universidade Federal da Bahia*
 
 
-*Rasella D\*, Nery JS\*, Pereira SM\*, Santos CA\*, Aquino R\*, Paes-Sousa R+, Penna G§, Penna MLF‡, Barreto ML\*.*
 
-*\* Instituto de Saúde Coletiva, Federal University of Bahia.*
-
-*+ Institute of Development  Studies, University of Sussex, Brighton, UK*
-
-*§ Tropical Medicine Center, University of Brasilia.*
-
-*‡Institute of Community Health, Fluminense Federal University.*
-
-Part of the results of this study have been recently published in:
-Rasella D, Aquino R, Santos CA, Paes-Sousa R, Barreto ML. Effect of a conditional cash transfer programme on childhood mortality: a nationwide analysis of Brazilian municipalities. The Lancet 6; 382: 57–64.
-
-Background.  Few studies have evaluate the impact of social protection interventions on the reduction of child morbidity and mortality, and almost none on the incidence of infectious diseases due to poverty. Brazil is the country that has implemented the world’s largest conditional cash transfer programme, the Bolsa Familia Programme (BFP), with a coverage that has gradually reached all 5565 Brazilian municipalities and enrolled 13.9 million families in 2012. At the same time Brazil has greatly increased the availability of big data of adequate quality - routinely collected by governmental institutions - either covering process indicators of social and health interventions or morbidity and mortality data, allowing the development of new methodological approaches for the evaluation of policies effectiveness all over the country. 
-Objective.  We aimed to assess the effect of the BFP, joined with the main primary health care intervention of the country, the Family Health Programme (FHP), on morbidity and mortality of children younger than 5 years (under-5), overall and resulting from specific causes associated with poverty, and on the incidence of tuberculosis and leprosy of all ages in the Brazilian population.
-Methods.  The study has a longitudinal ecological design and used a panel data, composed by a relevant number of units of analysis - the Brazilian municipalities - with repeated observations over time. It covered the period from 2004 to 2009 and included 2853 municipalities with death and livebirth statistics of adequate quality. We used government sources to calculate under-5 hospitalization and mortality rates - overall and from diarrhoea, malnutrition and lower respiratory infections - and incidence of tuberculosis and leprosy. BFP coverage of the municipality was classified, according to tercils of the distribution, as low (0.0–17.1%), intermediate (17.2–32.0%), high (>32.0%), or consolidated (>32.0% and target population coverage ≥100% for at least 4 years). We used multivariable negative binomial regression models - adjusted for all relevant confounding variables - with fixed-effects specification, which allows to control for unobserved characteristics of each municipality that could be correlated with the implementation of the intervention. 
-Results.  The rate ratios (RR) for the effect of the BFP on overall under-5 mortality rate were 0.94 (95%CI:0.92–0.96) for intermediate coverage, 0.88 (0.85–0.91) for high coverage, and 0.83 (0.79–0.88) for consolidated coverage. The effect of consolidated BFP coverage was highest on under-5 mortality resulting from malnutrition (RR 0.35;95%CI:0.24–0.50) and diarrhoea (0.47;0.37–0.61). BFP´s effect on hospitalization rates was similar to the observed effect on mortality rates. Moreover a high BFP coverage of the target poor population reduced the incidence of tuberculosis (RR 0.90;95%CI:0.87–0.93) and leprosy (RR 0.81;95%CI:0.76–0.88) of all ages.
-Conclusions.  Nationwide secondary data of adequate quality from governmental sources can be used - whenever possible - to conduct observational impact evaluations of social and health policies. We found that the Bolsa Familia Programme, joined with the Family Health Programme, contributed to the decrease of childhood mortality, in particular due to poverty-related causes, and to the reduction of leprosy and tuberculosis incidence in Brazil.
+The health conditions of a population are defined by a complex set of factors and interventions acting upon this population. Epidemiology is focused on the study of health determinants at population level using observational, but eventually experimental approaches. In recent times, it has dedicated part of its effort to study the impact on health of health and non-health related interventions. The availability of large data bases, frequently not connected, create new possibilities to conduct large population based studies with a great deal of generalizability. Using example from the Family Health Programme and the Bolsa Familia Programme (the Brazilian Conditional Cash Transfer Programme) the concept is presented in great detail.
