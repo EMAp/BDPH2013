@@ -58,6 +58,7 @@ NAVIGATION_LINKS = {
         ('/program.html', 'Program'),
         ('/registration.html', 'Registration'),
         ('/como_chegar.html', 'Location'),
+        ('/media.html', 'Media'),
     ),
 }
 
